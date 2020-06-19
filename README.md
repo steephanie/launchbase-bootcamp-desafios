@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="wallpapper.png">
+    <img src="wallpapper.png" width="300" height="200">
     <br>
     <b> Módulo 1</b> 
     </br>
