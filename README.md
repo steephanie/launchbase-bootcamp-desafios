@@ -28,7 +28,7 @@ Esse projeto faz parte das atividades do curso <strong>Bootcamp LaunchBase</stro
 
 O módulo apresentou 4 desafios:
 
-- Primeiros passos com JavaScript - [IMC](./modulo01/imc.js) / [Aposentadoria](modulo01/aposentadoria.js)
+- Primeiros passos com JavaScript - [IMC](https://github.com/steephanie/launchbase-bootcamp-desafios/blob/master/Modulo01/imc.js) / [Aposentadoria](https://github.com/steephanie/launchbase-bootcamp-desafios/blob/master/Modulo01/aposentadoria.js)
 - Lidando com objetos e vetores - [Empresa](empresa.js) / [Programador](programador.js)
 - Funções e estruturas de repetição - [Tecnologia](tecnologia.js) / [Despesas e Receitas](despesas_receita.js)
 - Aplicação: Operações bancárias [Operações bancarias](operacoes_bancarias.js)
