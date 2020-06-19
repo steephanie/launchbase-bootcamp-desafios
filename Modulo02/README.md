@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="wallpapper.png" width="300" height="200">
+    <img src="img/wallpapper.png" width="300" height="200">
     <br>
     <b> Desafio Módulo 2 - Iniciando no Front-end</b> 
     </br>
@@ -23,7 +23,7 @@ Esse desafio e para conhecermos os primeiros passos do front-end, tendo como int
 <a id="front"></a>
 ## 🚀 Resultado do desafio 
 
-<img src="resultado.gif" >
+<img src="img/resultado.gif" >
 
 
 ---
