@@ -10,7 +10,7 @@
 ## 📋 Índice
 
 - [Sobre](#sobre)
-- [Desafio Iniciando no Front-end](#front)
+- [Resultado do desafio](#front)
 
 ---
 <a id="sobre"></a>
