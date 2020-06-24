@@ -23,7 +23,7 @@ Esse projeto faz parte das atividades do curso <strong>Bootcamp LaunchBase</stro
 ---
 
 <a id="modulo01"></a>
-## 🚀 Módulo01 - Introdução a Programação WEB 🚀
+## Módulo01 - Introdução a Programação WEB 🚀
 
 O módulo apresentou 4 desafios :
 
