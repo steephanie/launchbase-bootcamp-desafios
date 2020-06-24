@@ -13,6 +13,7 @@
 - [Desafios módulo  1](#modulo01)
 - [Desafios módulo  2](#modulo02)
 - [Desafios módulo  3](#modulo03)
+- [Desafios Final](#final)
 
 ---
 <a id="sobre"></a>
@@ -49,6 +50,13 @@ O módulo apresentou os primeiros passos do front-end :
 O módulo apresentou os primeiros passos do back-end :
 
 - [Iniciando no Back-end](https://github.com/steephanie/launchbase-bootcamp-desafios/tree/master/Modulo03)
+
+---
+
+<a id="final"></a>
+## Desafio final tela da Rocketseat 🚀 
+
+Desafio final com os ultimos ajuste da tela da Rocketseat.
 
 ---
 
