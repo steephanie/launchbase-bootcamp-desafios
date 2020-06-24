@@ -54,9 +54,9 @@ O módulo apresentou os primeiros passos do back-end :
 ---
 
 <a id="final"></a>
-## Desafio final tela da Rocketseat 🚀 
+## Desafio Tela Rocketseat 🚀 
 
-Desafio final com os ultimos ajuste da tela da Rocketseat.
+Desafio final com os ultimos ajuste da tela Rocketseat.
 
 ---
 
