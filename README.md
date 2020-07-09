@@ -10,6 +10,7 @@
 ## 📋 Índice
 
 - [Sobre](#sobre)
+- [Como baixar o projeto](#baixar)
 - [Desafios módulo  1](#modulo01)
 - [Desafios módulo  2](#modulo02)
 - [Desafios módulo  3](#modulo03)
@@ -21,6 +22,22 @@
 
 Esse projeto faz parte das atividades do curso <strong>Bootcamp LaunchBase</strong>, foi feito alguns desafios para praticar os conhecimentos das aulas.
 
+---
+<a id="baixar"></a>
+## 📁 Como baixar o projeto
+
+```bash
+
+# Clonar o repositório
+$ git clone https://github.com/steephanie/launchbase-bootcamp-desafios
+
+#Entrar no diretório
+$ cd launchbase-bootcamp-desafios
+
+#Instalar o pacote express (node_modules)
+$ cd npm install express
+
+```
 ---
 
 <a id="modulo01"></a>
@@ -57,23 +74,6 @@ O módulo apresentou os primeiros passos do back-end :
 ## Desafio Tela Rocketseat 🚀 
 
 Desafio final com os ultimos ajuste da tela Rocketseat.
-
----
-
-## 📁 Como baixar o projeto
-
-```bash
-
-# Clonar o repositório
-$ git clone https://github.com/steephanie/launchbase-bootcamp-desafios
-
-#Entrar no diretório
-$ cd launchbase-bootcamp-desafios
-
-#Instalar o pacote express (node_modules)
-$ cd npm install express
-
-```
 
 ---
 
