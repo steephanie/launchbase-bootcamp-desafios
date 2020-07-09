@@ -60,6 +60,23 @@ Desafio final com os ultimos ajuste da tela Rocketseat.
 
 ---
 
+## 📁 Como baixar o projeto
+
+```bash
+
+# Clonar o repositório
+$ git clone https://github.com/steephanie/launchbase-bootcamp-desafios
+
+#Entrar no diretório
+$ cd launchbase-bootcamp-desafios
+
+#Instalar o pacote express (node_modules)
+$ cd npm install express
+
+```
+
+---
+
 <h5 align="center">
     Feito com 💜 por <a href="https://www.linkedin.com/in/stephanie-nascimento-71ab51152/" target="_blank">Stephanie Nascimento</a> no bootcamp da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> 🚀
 </h5>
