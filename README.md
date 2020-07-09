@@ -26,6 +26,8 @@ Esse projeto faz parte das atividades do curso <strong>Bootcamp LaunchBase</stro
 <a id="baixar"></a>
 ## 📁 Como baixar o projeto
 
+Para os desafios Modulo 1 e Modulo 2, sera preciso a instalação do pacote express
+
 ```bash
 
 # Clonar o repositório
