@@ -1,23 +1,3 @@
-<h2 align="center">
-    <img src="img/wallpapper.png" width="300" height="200">
-    <br>
-    <b> Desafio Módulo 2 - Iniciando no Front-end</b> 
-    </br>
-</h2>
-
----
-
-## 📋 Índice
-
-- [Sobre](#sobre)
-- [Resultado do desafio](#front)
-
----
-<a id="sobre"></a>
-## 🔖 Sobre
-
-Esse desafio e para conhecermos os primeiros passos do front-end, tendo como intuito mostrar o poder do CSS e HTML juntamente do JavaScript. 🚀
-
 ---
 
 <a id="front"></a>
