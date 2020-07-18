@@ -3,7 +3,7 @@
 <a id="front"></a>
 ## 🚀 Resultado do desafio 
 
-<img src="img/resultado.gif" >
+<img src="img/finalizado.gif" >
 
 
 ---
