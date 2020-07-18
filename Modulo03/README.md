@@ -1,7 +1,7 @@
 <a id="front"></a>
 ## 🚀 Resultado do desafio 
 
-<img src="img/resultado.gif">
+🚧
 
 ---
 
